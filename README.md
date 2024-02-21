@@ -1,16 +1,22 @@
 <h1 align="center">Aaryan Dehade</h1>
 
-<!--
-**dehadeaaryan/dehadeaaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- An ambitious undergraduate student
+- Pursuing a double major in Computer Science (BS) and Mathematics (BA)
+- Graduating in May 2025
 
-Here are some ideas to get you started:
+## Projects
+Explore my journey through the digital landscape by checking out my projects on different platforms:
+- **[My Github Repositories](https://github.com/dehadeaaryan?tab=repositories):**
+- **[Personal Website](https://www.aaryandehade.me/new#projects)**
+- **[PyPI](https://pypi.org/user/dehadeaaryan/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resume
+Explore my professional journey [here](https://www.aaryandehade.me/Resume.pdf)!
+
+## Social
+Let's connect! Find me on:
+
+- **[LinkedIn](https://www.linkedin.com/in/aaryandehade/)**
+- **[HackerRank](https://www.hackerrank.com/profile/dehadeaaryan)**
+- **[Personal Website](https://blog.aaryandehade.me/)**
