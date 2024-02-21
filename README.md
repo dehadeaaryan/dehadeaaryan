@@ -9,11 +9,8 @@ Explore my journey through the digital landscape by checking out my projects on 
 - **[Personal Website](https://www.aaryandehade.me/new#projects)**
 - **[PyPI](https://pypi.org/user/dehadeaaryan/)**
 
-## Resume
-Explore my professional journey [here](https://www.aaryandehade.me/Resume.pdf)!
-
 ## Social
-Let's connect! Find me on:
+Find me on:
 - **[LinkedIn](https://www.linkedin.com/in/aaryandehade/)**
 - **[HackerRank](https://www.hackerrank.com/profile/dehadeaaryan)**
 - **[Personal Website](https://blog.aaryandehade.me/)**
