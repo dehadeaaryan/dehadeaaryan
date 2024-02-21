@@ -16,4 +16,5 @@ Find me on:
 - **[HackerRank](https://www.hackerrank.com/profile/dehadeaaryan)**
 - **[Personal Website](https://blog.aaryandehade.me/)**
 
-Fun Fact: I made the gif in keynotes. :skull:
+## Fun Fact: 
+I made the gif using [keynote](https://www.apple.com/keynote/) :skull:
