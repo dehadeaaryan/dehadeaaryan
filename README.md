@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Aaryan Dehade</h1>
 
 <!--
 **dehadeaaryan/dehadeaaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
