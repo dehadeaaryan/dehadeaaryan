@@ -1,5 +1,4 @@
 [![Header](https://github.com/dehadeaaryan/dehadeaaryan/blob/main/profile.gif)](https://www.aaryandehade.me/)
-<h1 align="center">Aaryan Dehade</h1>
 
 ## About Me
 I'm Aaryan Dehade, an ambitious undergraduate student on a thrilling journey, pursuing a double major in Computer Science (BS) and Mathematics (BA). I'm set to graduate in May 2025.
