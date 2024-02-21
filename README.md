@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/dehadeaaryan/dehadeaaryan/master/untitled.gif)](https://www.aaryandehade.me/)
+[![Header](https://github.com/dehadeaaryan/dehadeaaryan/blob/main/Untitled.gif)](https://www.aaryandehade.me/)
 <h1 align="center">Aaryan Dehade</h1>
 
 ## About Me
