@@ -1,3 +1,4 @@
+![GIF](untitled.gif)
 <h1 align="center">Aaryan Dehade</h1>
 
 ## About Me
