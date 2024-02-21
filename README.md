@@ -15,3 +15,5 @@ Find me on:
 - **[LinkedIn](https://www.linkedin.com/in/aaryandehade/)**
 - **[HackerRank](https://www.hackerrank.com/profile/dehadeaaryan)**
 - **[Personal Website](https://blog.aaryandehade.me/)**
+
+Fun Fact: I made the gif in keynotes. :skull:
