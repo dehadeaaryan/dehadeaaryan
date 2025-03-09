@@ -1,7 +1,7 @@
 [![Header](https://github.com/dehadeaaryan/dehadeaaryan/blob/main/profile.gif)](https://www.aaryandehade.me/)
 
 ## About Me
-I'm Aaryan Dehade, an ambitious undergraduate student on a thrilling journey, pursuing a double major in Computer Science (BS) and Mathematics (BA). I'm set to graduate in May 2025.
+I'm Aaryan Dehade, an ambitious undergraduate student on a thrilling journey, pursuing a major in Computer Science (BS) with a Mathematics minor. I'm set to graduate in May 2025.
 
 ## Projects
 Explore my journey through the digital landscape by checking out my projects on different platforms:
@@ -16,4 +16,4 @@ Find me on:
 - **[Personal Website](https://blog.aaryandehade.me/)**
 
 ## Fun Fact: 
-I made the gif using [keynote](https://www.apple.com/keynote/) :skull:
+I made the gif using [keynote](https://www.apple.com/keynote/) 
